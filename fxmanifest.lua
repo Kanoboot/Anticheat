@@ -1,9 +1,9 @@
 fx_version 'cerulean'
 game 'gta5'
 
-name        'discord-agecheck'
-description 'Blocks players whose Discord account is younger than the configured minimum age.'
-author      'YourServer'
+name        'Anticheat'
+description 'Kleine anticheat dingetjes voor fivem.'
+author      'Kanoboot Development'
 version     '1.0.0'
 
 server_scripts {
